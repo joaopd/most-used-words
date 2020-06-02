@@ -1,2 +1,24 @@
 # most-used-words
-Text reader created to separate the text by the most used words, focused on reading English subtitles and sorting by the most used words in the text, thus helping to learn the language.  Developed with VUE js and Electron
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
